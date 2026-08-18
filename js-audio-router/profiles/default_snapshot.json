@@ -1,0 +1,173 @@
+{
+  "created": "2026-08-17T19:28:45.717049",
+  "devices": [
+    {
+      "id": "{0.0.0.00000000}.{03249305-35a2-44f8-822e-aba9559e5c5c}",
+      "name": "CABLE In 16ch (VB-Audio Virtual Cable)",
+      "volume": 0.02025086060166359,
+      "muted": true
+    },
+    {
+      "id": "{0.0.0.00000000}.{1fb878c1-1b35-4336-85fc-41cf9a2768af}",
+      "name": "Headset (FT_38136_99C6 Hands-Free)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{2bfa74c7-c33e-43f6-aa4a-14ce129fd8f0}",
+      "name": "Headset (realme TechLife Buds T100 Hands-Free)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{3897f522-1b2f-4217-a9c9-018b1b0da21d}",
+      "name": "Headset (Airdopes 181 Hands-Free)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{49d07eec-b10d-4ccc-acbd-e7c9f7ddd587}",
+      "name": "Headset (Icon Plus_Phone Hands-Free)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{4ae1a202-56c0-46df-bc22-81a2ffc07991}",
+      "name": "Speakers (Nahimic mirroring device)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{4f267cbe-69b9-4a19-bd40-780340d247b9}",
+      "name": "Headphones (Rockerz 430)",
+      "volume": 0.6000003814697266,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{51295bc3-3b9d-4488-a0fe-4cd1787b3e5c}",
+      "name": "Headphones (HP Candy)",
+      "volume": 0.3800000846385956,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{683857c6-b243-4c43-9388-ceb7d1625917}",
+      "name": "Headphones (Realtek(R) Audio)",
+      "volume": 0.30022817850112915,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{8bba40e7-5e81-4302-aa11-1ee8aaf1ccfe}",
+      "name": "Headphones (3- Killer)",
+      "volume": 0.18110254406929016,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{a76325fe-dd88-483c-bd2a-bd0a10f1b1cc}",
+      "name": "Speakers (Realtek(R) Audio)",
+      "volume": 0.2202252894639969,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{c12a87b2-d4ee-4ab8-906e-324b57bb85fe}",
+      "name": "Speakers (Nahimic Easy Surround device)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{e5063a66-da04-4874-babc-f9b1dec26130}",
+      "name": "Headset (Nirvana Space Hands-Free)",
+      "volume": 0.8666664958000183,
+      "muted": false
+    },
+    {
+      "id": "{0.0.0.00000000}.{e6114bd4-87e2-4172-8353-868fa8dc383b}",
+      "name": "CABLE Input (VB-Audio Virtual Cable)",
+      "volume": 0.02025086060166359,
+      "muted": true
+    },
+    {
+      "id": "{0.0.0.00000000}.{ea47d889-7ae3-4a3f-bb01-74fe252ff49f}",
+      "name": "Headset (Airdopes Supreme Hands-Free)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{0f37d392-33b0-4fe2-bbf9-12bd88575639}",
+      "name": "Headset (Nirvana Space Hands-Free)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{19473d7e-9316-45a5-925b-9c6cff024761}",
+      "name": "Headset (3- Killer)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{2d67660e-a9f4-4de2-96fb-9719eccdd0a5}",
+      "name": "Headset (realme TechLife Buds T100 Hands-Free)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{3f9e002e-6042-4b06-859f-34b4f3b21066}",
+      "name": "Stereo Mix (Realtek(R) Audio)",
+      "volume": 0.5522055625915527,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{485c88b5-ce3b-41a4-bc94-65301bf0f715}",
+      "name": "Headset (Airdopes Supreme Hands-Free)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{751e4c71-ca09-41a0-b8cf-dcc999835a42}",
+      "name": "Headset (Icon Plus_Phone Hands-Free)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{7f445627-a744-42ef-9ec5-3aece5486eb3}",
+      "name": "Headset (HP Candy)",
+      "volume": 0.5999997854232788,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{ac3cd427-90e1-45f5-9024-daf8bede4949}",
+      "name": "Headset (FT_38136_99C6 Hands-Free)",
+      "volume": 1.0,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{afbf0104-6f10-41f3-80e1-c7a5bffd5949}",
+      "name": "CABLE Output (VB-Audio Virtual Cable)",
+      "volume": 0.26694437861442566,
+      "muted": true
+    },
+    {
+      "id": "{0.0.1.00000000}.{c1204c1a-d19b-4109-bbe6-d5f4c1e9d2a0}",
+      "name": "Headset (Airdopes 181 Hands-Free)",
+      "volume": 0.5999997854232788,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{d43616b4-3945-44b9-b57c-48fd08dfb3fc}",
+      "name": "Microphone Array (Intel\u00ae Smart Sound Technology for Digital Microphones)",
+      "volume": 0.9738788604736328,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{ef5b19ce-fc76-455f-a9bb-08125eaeede7}",
+      "name": "External Microphone (Realtek(R) Audio)",
+      "volume": 0.7023493647575378,
+      "muted": false
+    },
+    {
+      "id": "{0.0.1.00000000}.{f19b7dbe-a74e-4541-aac1-1c92571f1ff6}",
+      "name": "Headset (Rockerz 430)",
+      "volume": 1.0,
+      "muted": false
+    }
+  ]
+}
